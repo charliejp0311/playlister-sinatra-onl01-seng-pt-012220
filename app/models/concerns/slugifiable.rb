@@ -1,4 +1,4 @@
-helper do
+helpers do
   def slug(obj)
     binding.pry
   end
