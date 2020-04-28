@@ -1,5 +1,5 @@
 helpers do
-  def slug
+  def slug(obj)
     binding.pry
   end
 end
